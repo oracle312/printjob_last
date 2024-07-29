@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{482B001D-6D17-42F5-9C64-885B4778E666}|Project1\\Project1.vcxproj|C:\\Users\\USER\\source\\repos\\Project1\\Project1\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{482B001D-6D17-42F5-9C64-885B4778E666}|Project1\\Project1.vcxproj|solutionrelative:Project1\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482B001D-6D17-42F5-9C64-885B4778E666}|Project1\\Project1.vcxproj|C:\\Users\\USER\\source\\repos\\Project1\\Project1\\Resource.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 ! 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{482B001D-6D17-42F5-9C64-885B4778E666}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Resource.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 ! 2$  \u0022     "
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resource.rc - VS_VERSION_INFO - Version",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Project1\\Project1\\Resource.rc",
+              "RelativeDocumentMoniker": "Project1\\Resource.rc",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Project1\\Project1\\Resource.rc - VS_VERSION_INFO - Version",
+              "RelativeToolTip": "Project1\\Resource.rc - VS_VERSION_INFO - Version",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-29T08:29:57.689Z",
+              "EditorCaption": " - VS_VERSION_INFO - Version"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Project1\\Project1\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "Project1\\\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Project1\\Project1\\\uC18C\uC2A4.cpp",
+              "RelativeToolTip": "Project1\\\uC18C\uC2A4.cpp",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAH0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T07:58:39.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
